@@ -10,10 +10,10 @@ export default function HomePage() {
       <header className="border-b bg-card">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">//
+            <div className="flex items-center gap-2">
               {/* <GraduationCap className="h-8 w-8 text-primary" /> */}
               <img src="" alt="" />
-              <h1 className="text-2xl font-bold text-foreground">University Admissions</h1>
+              <h1 className="text-2xl font-bold text-foreground"> State University Admissions</h1>
             </div>
             <div className="flex gap-2">
               <Button variant="outline" asChild>
